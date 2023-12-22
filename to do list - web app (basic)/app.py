@@ -48,9 +48,3 @@ db.create_all()
 if __name__ == "__main__":
     app.run(debug=True)
 
-
-
-#resources:
-#https://www.youtube.com/watch?v=yKHJsLUENl0
-#https://semantic-ui.com/introduction/advanced-usage.html
-#https://flask.palletsprojects.com/en/3.0.x/installation/
